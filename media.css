@@ -1,0 +1,13 @@
+#left-top, #left-bottom, #nezaket{
+  flex-direction: column;
+}
+.left-top-1, .left-top-2, .left-bottom-1, .left-bottom-2, #right-side, #left-side{
+  width: 100%;
+  margin: 0.7rem 0;
+}
+#container{
+  height: 127vh;
+}
+#nezaket{
+  padding: 0 1rem;
+}
